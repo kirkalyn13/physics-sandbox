@@ -9,6 +9,7 @@ def plot_results(data: dict) -> None:
     Saves animation to outputs/ and displays it.
     """
     os.makedirs("outputs", exist_ok=True)
+    plt.style.use("dark_background")
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
     fig.suptitle(data["label"], fontsize=14)
