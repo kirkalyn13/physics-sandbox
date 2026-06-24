@@ -40,6 +40,8 @@ python sim.py
 |---|---|---|
 | 01 | Projectile Motion | Done |
 | 02 | Pendulum | Done |
+| 03 | Orbital Mechanics| Done |
+| 04 | Time Dilation | Done |
 
 ## Author
 
