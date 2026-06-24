@@ -39,3 +39,12 @@ python sim.py
 | # | Name | Status |
 |---|---|---|
 | 01 | Projectile Motion | Done |
+| 02 | Pendulum | Done |
+
+## Author
+
+[Engr. Kirk Alyn Santos](https://github.com/kirkalyn13)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
